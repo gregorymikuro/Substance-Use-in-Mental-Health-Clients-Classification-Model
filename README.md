@@ -35,7 +35,6 @@ A machine learning classifier will be trained on historical data to predict the 
 - Recall
 - F1-Score
 
-### Conclusion
 By identifying clients at risk for substance abuse, the project aims to improve mental health care delivery and enhance client outcomes.
 
 ## Data Understanding
