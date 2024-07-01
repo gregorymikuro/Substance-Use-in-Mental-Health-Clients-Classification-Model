@@ -1,11 +1,9 @@
 
 # Substance Use in Mental Health Clients Classification Model
 
-## Overview
-
-
 ![image](https://github.com/gregorymikuro/Substance-Use-in-Mental-Health-Clients-Classification-Model/assets/155205164/1c4e210e-b02b-4d3a-954a-4303da4660ae)
 
+## Overview
 
 This project aims to develop a machine learning model that can identify mental health clients with a higher risk of substance abuse problems (SAP). The model utilizes a combination of the client's primary mental health diagnosis and demographic information to predict their SAP status. The data is sourced from SAMHSA.
 
